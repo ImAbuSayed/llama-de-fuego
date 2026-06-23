@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/llama-de-fuego/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Llama de fuego](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/llama-de-fuego/) |
+| **Get License** | [Music Rights & Licensing for Llama de fuego](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/llama-de-fuego/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Apaga la luz, deja que hable la luna
+> Con ese flow de Madrid, no hay como tú ninguna
+> Tú eres mi llama de fuego, mi baby, mi cura
+> I want you closer tonight, bailando en la locura
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
