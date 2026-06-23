@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Llama de fuego
+
+This log tracks the cryptographic history and versioning for the song **Llama de fuego** (llama-de-fuego).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-23T14:08:18.361528 | `v1` | `d5454de588ef9363cf48c262cccfe5cf65e156f5f5acb8de8e15731ee157903b` | `09a811b8241979b7f528f5d2a55553028b916244395371d7abc5f68860ebfebd` | `2026-06-23_llama-de-fuego-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
